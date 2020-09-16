@@ -1,4 +1,9 @@
 # cnative
+Install GIT on CentOS - Ref1 <https://www.linux.com/training-tutorials/lets-git-it-installing-git-centos/>
+Install GIT on CentOS - DittoRef1 <https://www.linux.com/training-tutorials/lets-git-it-installing-git-centos/>
+
+GIT Basic branching <https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging>
+
 1. Login with root credentials.
 
 2. Use YUM to install it using
